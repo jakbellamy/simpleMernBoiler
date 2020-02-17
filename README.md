@@ -9,3 +9,7 @@ NOTES
   c) you can just keep adding routes exactly like the ones currently supplied for user.
 
 :)
+
+
+UPDATE:
+Tested POST and GET for user. each working.
